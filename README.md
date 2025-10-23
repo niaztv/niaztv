@@ -68,7 +68,9 @@ Here are some ideas to get you started:
 ---
 
 ### ⚙️ GitHub Analytics  
-
+<!--
+![Niaz's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=niaztv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show_owner=true&hide_rank=false&hide_title=false&show=prs_merged,prs_merged_percentage,issues,contribs,stars)
+-->
 ![Streak](https://streak-stats.demolab.com?user=niaztv&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&v=1)
 
 ---
